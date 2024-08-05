@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Cloud Architect in The Netherlands<br>👯 I’m looking to collaborate on Azure and the dotnet technology landscape<br>💬 Ask me about Azure, dotnet, EF Core, ASP.Net Core, terraform, GitHub & CI/CD automation in general<br>⚡ Fun fact I love pool and snooker 🔴
+🔭 I’m currently working as a freelance in The Netherlands<br>👯 I’m looking to collaborate on Azure and the dotnet technology landscape<br>💬 Ask me about Azure, dotnet, EF Core, ASP.Net Core, terraform, GitHub & CI/CD automation in general<br>
 
 
 ## 🌐 Socials:
